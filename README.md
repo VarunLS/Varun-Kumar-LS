@@ -12,23 +12,21 @@
 
 <h2> KEY SKILLS</h2>
 
-- [Verilog](https://www.skills.com/watch?v=a83ASGn_V_s)
-- [PSpice](https://www.skills.com/watch?v=uHy3oM7NnoU)
-- [vivado xilinx](https://www.skills.com/watch?v=N-L9hklSlNk)
-- [PCB desinging](https://www.skiils.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- Verilog <a href="https://github.com/varun background">
+- PSpice<a href="https://github.com/varun background">
+- vivado xilinx<a href="https://github.com/varun background">
+- PCB desinging<a href="https://github.com/varun background">
+- MATLAB<a href="https://github.com/varun background">
+- AUTO CAD<a href="https://github.com/varun background">
+- C Programming <a href="https://github.com/varun background">
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/varun-kumar-7b3818214)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
