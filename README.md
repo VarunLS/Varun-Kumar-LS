@@ -1,9 +1,9 @@
 # Varun-Kumar-LS
 <h1>Hi, I'm Varun  <br/><a href="https://github.com/varun background">Mtech (VLSI)</a></h1><a href="https://www.email.com/in/Gmailid/">varunkumar69494@gmail.com</a>,</h1> <a href="https://www.contacts.com/c/varun">8310785650</a></h1> href="https://www.linkden.com/c/varun"></a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻  Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algor (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
