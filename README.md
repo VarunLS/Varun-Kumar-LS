@@ -4,7 +4,7 @@
 <h2> 👨‍💻 Projects:</h2>
 
 - <b>DC MOTOR SPEED CONTROL USING PWM (5 Months )</b>
-  - [https://drive.google.com/file/d/163op1dGFH1jyAj0ZVmYJWuCtiH-TClxu/view?usp=drive_link](https://github.com/varun/picture-Practice)
+  - [(https://github.com/varun/picture-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
