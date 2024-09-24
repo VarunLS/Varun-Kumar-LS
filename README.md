@@ -1,5 +1,5 @@
 # Varun-Kumar-LS
-<h1>Hi, I'm Varun <br/><a href="https://github.com/joshmadakor1"></a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Varun  <br/><a href="https://github.com/varun background">Mtech (VLSI)</a></h1><a href="https://www.email.com/in/Gmailid/">varunkumar69494@gmail.com</a>,</h1> <a href="https://www.contacts.com/c/varun">8310785650</a></h1> href="https://www.linkden.com/c/varun"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
